@@ -1,0 +1,5 @@
+1] How to create new jobs and then add description and triggers and other configuration
+
+2] how to chane the jobs 
+
+3] how to execute the job remotely
